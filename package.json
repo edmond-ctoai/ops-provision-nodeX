@@ -1,0 +1,14 @@
+{
+  "name": "node-demo-app",
+  "version": "1.0.0",
+  "description": "A node demo app for the CTO.ai Ops platform. ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Edmond Lee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
